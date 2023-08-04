@@ -1,0 +1,46 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.officalSidebar.category.Language Basics": {
+    "message": "Language Basics",
+    "description": "The label for category Language Basics in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Language Basics.link.generated-index.description": {
+    "message": "Language Basics",
+    "description": "The generated-index page description for category Language Basics in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Design and Layout": {
+    "message": "Design and Layout",
+    "description": "The label for category Design and Layout in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Design and Layout.link.generated-index.description": {
+    "message": "Design and Layout",
+    "description": "The generated-index page description for category Design and Layout in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Plugins and Libraries": {
+    "message": "Plugins and Libraries",
+    "description": "The label for category Plugins and Libraries in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Plugins and Libraries.link.generated-index.description": {
+    "message": "Plugins and Libraries",
+    "description": "The generated-index page description for category Plugins and Libraries in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Official Samples and App Showcases": {
+    "message": "Official Samples and App Showcases",
+    "description": "The label for category Official Samples and App Showcases in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Official Samples and App Showcases.link.generated-index.description": {
+    "message": "Official Samples and App Showcases",
+    "description": "The generated-index page description for category Official Samples and App Showcases in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Community and Updates": {
+    "message": "Community and Updates",
+    "description": "The label for category Community and Updates in sidebar officalSidebar"
+  },
+  "sidebar.officalSidebar.category.Community and Updates.link.generated-index.description": {
+    "message": "Community and Updates",
+    "description": "The generated-index page description for category Community and Updates in sidebar officalSidebar"
+  }
+}

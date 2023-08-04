@@ -1,0 +1,26 @@
+{
+  "title": {
+    "message": "Flutter Journey",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "Flutter Journey Logo",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.Offical": {
+    "message": "官方文档",
+    "description": "Navbar item with label Offical"
+  },
+  "item.label.Community": {
+    "message": "社区资源",
+    "description": "Navbar item with label Community"
+  },
+  "item.label.Blog": {
+    "message": "博客",
+    "description": "Navbar item with label Blog"
+  },
+  "item.label.GitHub": {
+    "message": "GitHub",
+    "description": "Navbar item with label GitHub"
+  }
+}
