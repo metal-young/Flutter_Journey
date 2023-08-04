@@ -96,7 +96,7 @@ const config = {
             label: 'Blog',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/metal-young/Flutter_Journey',
             label: 'GitHub',
             position: 'right',
           },

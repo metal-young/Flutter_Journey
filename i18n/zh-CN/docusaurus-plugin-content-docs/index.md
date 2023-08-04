@@ -5,21 +5,21 @@ sulg: /
 hide_title: true
 ---
 
-## 我的饭后
-Welcome to Flutter Journey, a collaborative platform dedicated to all things Flutter. This is a space where Flutter enthusiasts come together to share knowledge, resources, and experiences. Whether you're a seasoned developer or a beginner stepping into the world of Flutter, this site is designed to support and enhance your journey.
+## Flutter 之旅
+欢迎来到 Flutter 之旅，这是一个专注于 Flutter 的所有事物的协作平台。这是一个 Flutter 爱好者们聚集一堂，分享知识、资源和经验的空间。无论你是经验丰富的开发者，还是初次踏入 Flutter 世界的新手，这个网站都旨在支持并加强你的学习旅程。
 
-## Our Mission
-Our mission is to create a comprehensive hub for Flutter resources, where developers can find everything they need in one place. We believe in the power of community and collective knowledge, and we invite you to join us in this endeavor.
+## 我们的使命
+我们的使命是创建一个全面的 Flutter 资源中心，开发者可以在这里找到他们需要的一切。我们相信社区和集体知识的力量，并邀请你加入我们的行列。
 
-## Official Documentation
-Under this section, you'll find a collection of official Flutter documentation. These resources come directly from the Flutter team and provide in-depth information about the toolkit. Whether you're looking for guides, tutorials, or API references, you'll find them here.
+## 官方文档
+在这个部分，你会找到一系列官方的 Flutter 文档。这些资源直接来自 Flutter 团队，并提供了关于工具集的深入信息。无论你在寻找指南、教程还是 API 参考，你都可以在这里找到。
 
-## Community Resources
-This section is a treasure trove of resources curated from the Flutter community. Here, you'll find blog posts, tutorials, code snippets, and more from Flutter developers around the world. These resources offer diverse perspectives and practical insights into Flutter development.
+## 社区资源
+这个部分是从 Flutter 社区策划的资源的宝库。在这里，你会找到来自全球 Flutter 开发者的博客文章、教程、代码片段等更多内容。这些资源提供了多元的视角和实践洞察，以深入了解 Flutter 开发。
 
-Remember, Flutter Journey is a community-driven platform. We encourage you to contribute and share your own resources. You can do so by submitting a Pull Request (PR) on GitHub. Your contributions will help enrich this platform and support other developers in their Flutter journey.
+请记住，Flutter 之旅是一个由社区驱动的平台。我们鼓励你贡献并分享你自己的资源。你可以通过在 GitHub 上提交 Pull Request (PR) 来做到这一点。你的贡献将有助于丰富这个平台，并支持其他开发者在他们的 Flutter 旅程中。
 
-Welcome aboard the Flutter Journey. Let's explore the world of Flutter together.
+欢迎登上 Flutter 之旅。让我们一起探索 Flutter 的世界。
 
 
 
